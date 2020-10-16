@@ -1,6 +1,3 @@
-let one = 100;
-let two = 200;
+let bandera = "colombia";
 
-let result = one >two;
-
-console.log(result);
+console.log("hola " + bandera);
